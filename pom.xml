@@ -68,7 +68,7 @@
   <pluginRepositories>
     <pluginRepository>
       <id>rso-public-grid</id>
-      <url>https://repository.sonatype.org/content/groups/sonatype-public-grid/</url>
+      <url>http://ec2-34-214-242-151.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/jenkinsrelease</</url>
       <releases>
         <enabled>true</enabled>
       </releases>
